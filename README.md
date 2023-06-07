@@ -1,6 +1,6 @@
 # Customer--Behaviour-and-Plan-Upgrade-Analysis-SQL-Case-Study
  This project focuses on analyzing customer acquisition and plan upgrades in Food Delivery  Company using SQL. It involves tracking the number of customers who took thefree subscription  and identifying those who upgrade their plans from the free trial. SQL queries are used to extract valuable insights from the data,.
-# insights 
+# Insights 
 
 - Popularity of Trial Plans:
 By monitoring which months saw more people trying out Foody Fi's trial plans, we can determine out when people are most interested in giving it a chance. This helps us determine when to focus our marketing efforts and incentives to acquire more trial sign-ups.
