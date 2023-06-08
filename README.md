@@ -1,4 +1,4 @@
-# Customer--Behaviour-and-Plan-Upgrade-Analysis-SQL-Case-Study
+#Subscription Analysis-SQL
  This project focuses on analyzing customer acquisition and plan upgrades in Food Delivery  Company using SQL. It involves tracking the number of customers who took thefree subscription  and identifying those who upgrade their plans from the free trial. SQL queries are used to extract valuable insights from the data,.
 # Insights 
 
