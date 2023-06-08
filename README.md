@@ -1,5 +1,6 @@
-#Subscription Analysis-SQL
-- This project focuses on analyzing customer acquisition and plan upgrades in Food Delivery  Company using SQL. It involves tracking the number of customers who took thefree subscription  and identifying those who upgrade their plans from the free trial. SQL queries are used to extract valuable insights from the data,.
+# Subscription Analysis-SQL
+- This project focuses on analyzing customer acquisition and plan upgrades in Food Delivery  Company using SQL. It involves tracking the number of customers who took thefree subscription  and identifying those who upgrade their plans from the free trial. SQL queries are used to extract valuable insights.
+[sql foody-FI.pdf](https://github.com/KundanMooo/Subscription-Analysis-SQL/files/11684841/sql.foody-FI.pdf)
 # Insights 
 
 - Popularity of Trial Plans:
